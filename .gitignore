@@ -2,6 +2,41 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+*.sqlite
+*.db
+
+# Qt Designer files (temporary)
+*.qrc~
+*.bak
+*.autosave
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# QGIS specific
+*.qgs~
+*.qgz~
+.qgis2/
+.qgis3/
+processing/outputs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Build folders
+build/
+dist/
+*.zip
 
 # C extensions
 *.so
