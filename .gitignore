@@ -33,11 +33,6 @@ processing/outputs/
 .vscode/
 .idea/
 
-# Build folders
-build/
-dist/
-*.zip
-
 # C extensions
 *.so
 
@@ -59,6 +54,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.zip
 MANIFEST
 
 # PyInstaller
