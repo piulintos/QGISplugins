@@ -4,8 +4,8 @@ QGIS plugins developed as part of research and applied work at the [Environmenta
 Each tool is designed with a focus on practical use, efficient processing, and an intuitive user experience (UX) combined with clear, appealing interfaces (UI).
 
 # 🌍 Ecosystem & Environmental Tools
-### ✨ Ecosystem Condition — 🔧 In development
-A comprehensive tool to calculate the ecosystem condition of a landscape, based on user-selected variables related to different ecosystem states (physical, chemical, compositional, structural, functional, and landscape states). Currently being developed under the [SELINA research project](https://project-selina.eu/) (EU Horizon Grant No. 101060415). 
+### ✨ EcoCondition Toolset — 🔧 In development
+A comprehensive set of tools to calculate the ecosystem condition of a landscape, based on user-selected variables related to different ecosystem states (physical, chemical, compositional, structural, functional, and landscape states). Currently being developed under the [SELINA research project](https://project-selina.eu/) (EU Horizon Grant No. 101060415). 
 
 # 🧰 General Tools
 ### 🌐 Euclidean Distance Tool — 🔧 In development
@@ -32,7 +32,7 @@ Bundle plugin integrating:
 * Raster Normalisation
 
 # 📆 Roadmap
-* Finalise core features of the Ecosystem Condition assessment tool
+* Finalise core features of the Ecosystem Condition assessment toolset
 * Finalise and publish Raster Tools and sub-tools independently
 * Add installation instructions and screenshots for each plugin
 
