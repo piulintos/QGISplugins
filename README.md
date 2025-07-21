@@ -4,7 +4,7 @@ QGIS plugins developed as part of research and applied work at the [Environmenta
 Each tool is designed with a focus on practical use, efficient processing, and an intuitive user experience (UX) combined with clear, appealing interfaces (UI).
 
 # 🌍 Ecosystem & Environmental Tools
-### ✨ EcoCondition Toolset — 🔧 In development
+### ✨ [EcoCondition Toolset](https://github.com/piulintos/EcoCondition_Toolbox_for_QGIS) — 🔧 Beta version released
 A comprehensive set of tools to calculate the ecosystem condition of a landscape, based on user-selected variables related to different ecosystem states (physical, chemical, compositional, structural, functional, and landscape states). Currently being developed under the [SELINA research project](https://project-selina.eu/) (EU Horizon Grant No. 101060415). 
 
 # 🧰 General Tools
